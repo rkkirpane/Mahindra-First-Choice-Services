@@ -24,3 +24,17 @@ characteristics captured in the data. Groups created through such a segmentation
 
 
 ● Expected Business Outcome : This would be beneficial to Mahindra First Choice Services to identify the various segments in the market. Also, these segmentations would allow for targeted marketing activities and sales promotions.
+
+# Further Recommended Problem Statements
+
+
+# 1. Inventory Management and Recommendation
+a. We can find different relations on what inventory is used at what scale in how much amount in different states, and their relations with car model and what type of customer it was. With years of data, we can see how the trend changes, what type of demand is increasing, and this correlation with different car companies and models might give a good insight and prediction on requirements for the future.
+
+
+# 2. Marketing Recommendation
+a. Based on how much revenue is generated from each marketing source, and how has it varied one can find what type of customers use which marketing source,average income per marketing source and how much does it cost. Thus with a time trend, one can predict where to invest your marketing resources and where to cut down. This can be combined with other data like type of vehicles and type of repair done for more engaging insights.
+
+
+# 3. Customer Prediction
+a. Based on last year’s data can you come up with numbers for this years customers, what will be the type of cars, issues, and inventory. This will solely focus on time series prediction unlike earlier where time series predictions are used for further insights. This will thus be more technical oriented using which other tools can be made. This will go deeper into the analysis of different techniques and coming up with the best technique for time series prediction.
